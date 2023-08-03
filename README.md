@@ -1,6 +1,6 @@
 # Digital_Communications
 
-Small Projects for the Course: [**Digital Communications I**](https://www.ece.ntua.gr/en/undergraduate/courses/3299)
+Small Projects for the Course: [**Digital Communications I** (6th Semester - ECE|NTUA)](https://www.ece.ntua.gr/en/undergraduate/courses/3299)
 
 # Περιγραφή Μαθήματος
 
