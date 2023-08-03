@@ -1,8 +1,8 @@
 # Digital_Communications
 
-Small Projects for the Course: **Digital Communications I**
+Small Projects for the Course: [**Digital Communications I**](https://www.ece.ntua.gr/en/undergraduate/courses/3299)
 
-Περιγραφή Μαθήματος
+# Περιγραφή Μαθήματος
 
 - Εισαγωγή - Η ψηφιακή επεξεργασία σήματος στις τηλεπικοινωνίες – εξομοίωση αναλογικών διαμορφώσεων
 
